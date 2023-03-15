@@ -12,11 +12,7 @@ I'm a Software Engineer with a passion for Creating Softwares with skills of Dev
 
 ## 🔭 My Top Languages
 
-Here are the programming languages that I frequently use in my projects:
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="20"> Python
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="20"> JavaScript
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="20"> Java
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="20"> HTML/CSS
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshtiwari2000&layout=compact&langs_count=10&theme=radical&hide_progress=true)](https://github.com/riteshtiwari2000)
 
 ## 🤝 Connect with me
 
