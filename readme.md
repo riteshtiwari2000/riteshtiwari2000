@@ -58,7 +58,7 @@ I'm a Software Engineer with a passion for Creating Softwares with skills of Dev
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
       <br>Linux
     </td>
   </tr>
@@ -100,8 +100,8 @@ I'm a Software Engineer with a passion for Creating Softwares with skills of Dev
       <br>MySQL
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
+        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="jquery" />
+      <br>Materal UI
     </td>
  </tr>
 </table>
