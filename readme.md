@@ -57,6 +57,10 @@ I'm a Software Engineer with a passion for Creating Softwares with skills of Dev
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="icon" width="65" height="65" />
+      <br>Linux
+    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
