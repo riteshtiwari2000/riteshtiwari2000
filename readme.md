@@ -1,10 +1,10 @@
 # Hi there, I'm Ritesh Tiwari! 👋
 
-I'm a Software Engineer with a passion for Creating Softwares with skills of Developer and breaking with skills of Cyber Security.
+I'm a Software Engineer with a passion for Creating Software with skills of Developer and breaking with skills of Cyber Security.
 
 ## 🌱 I'm currently learning ...
-- **Cyber Security**: Learning because of curiosity of digging deeper.
-- **Software Development**: Learning with the aim -> to break first you must know how thing are being build.
+- **Software Development**: Learning with the aim -> to break first you must know how things are building.
+- **Cyber Security/DevOps**: Learning because of curiosity of digging deeper.
 
 ## 📊 My GitHub Stats
 
