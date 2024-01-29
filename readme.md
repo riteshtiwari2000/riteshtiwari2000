@@ -1,6 +1,6 @@
 # Hi there, I'm Ritesh Tiwari! 👋
 
-I'm a Software Engineer with a passion for Creating Software with skills of Developer and breaking with skills of Cyber Security.
+I'm a Software Engineer.
 
 ## 🌱 I'm currently learning ...
 - **Software Development**
